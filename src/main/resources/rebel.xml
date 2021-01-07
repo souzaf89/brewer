@@ -9,8 +9,6 @@
 	<classpath>
 		<dir name="C:/ew-eclipse/brewer/target/classes">
 		</dir>
-		<dir name="C:/ew-eclipse/brewer/target/test-classes">
-		</dir>
 	</classpath>
 
 	<web>
